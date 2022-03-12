@@ -13,4 +13,4 @@ Contract Address:
 ------------------
 
 This contract is deployed on the rinkeby test net, on the following address:
-0x608832c01C88bD124D0e7B8bAA227ff5ed653F6a
+https://rinkeby.etherscan.io/address/0x608832c01C88bD124D0e7B8bAA227ff5ed653F6a
